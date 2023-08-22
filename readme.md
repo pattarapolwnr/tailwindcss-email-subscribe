@@ -1,5 +1,6 @@
 # Email Subscribe Project
 
-Email Subscribe mini-project from my Tailwind course.
+This is my first use of Tailwind CSS for building web layout. 
+I learned this project from Brad Traversy's Tailwind course.
 
 ![Alt text](images/email-subscribe.png)
